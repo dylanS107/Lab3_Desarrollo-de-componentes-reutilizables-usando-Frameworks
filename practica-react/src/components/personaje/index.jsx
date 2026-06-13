@@ -1,1 +1,0 @@
-export {PersonajeCard} from './personaje';

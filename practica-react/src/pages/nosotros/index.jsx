@@ -1,1 +1,0 @@
-export {Nosotros} from './nosotros';
