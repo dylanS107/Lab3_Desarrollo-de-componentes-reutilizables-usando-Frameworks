@@ -5,8 +5,7 @@ export const Footer = () => {
 
     return (
         <footer className={styles.footer}>
-            <p className={styles.text}>Todos los derechos reservados - ESPE {anioActual}.</p>
-            <p className={styles.text}>Todos los derechos reservados - ESPE IT [2026].</p>
+            <p className={styles.text}>Todos los derechos reservados - ESPE IT{anioActual}.</p>
             <p className={styles.text}>Dirección: Av. del Ejército 18-01 y Av. 12 de Abril, Quito, Ecuador</p>
         </footer>
     );
